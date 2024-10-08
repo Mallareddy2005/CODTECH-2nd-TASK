@@ -14,3 +14,6 @@ Technologies Used :
 1) C++
 2) Adafruit playground
 3) Arduino IDE
+
+Summary : 
+I have used Arduino Ide Software to Complete the Task. I have Added Adafruit Playground  board and ESP8266, Adafruit Libraries to Run the Code as a Source.
