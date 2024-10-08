@@ -5,4 +5,12 @@ Company : CODTECH IT SOLUTIONS
 Id : CT12DS2131                                                                           
 Domain : Embedded Systems                                                                                                               
 Duration : August to October 2024                                                         
-Mentor : N.Santhosh Kumar                                                                  
+Mentor : N.Santhosh Kumar    
+
+# Overview of Project
+Project : Real time Embedded Systems   
+
+Technologies Used : 
+1) C++
+2) Adafruit playground
+3) Arduino IDE
